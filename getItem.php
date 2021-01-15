@@ -30,6 +30,6 @@ $data = array(
 );
 
 
-$x = $data[$_POST['x']];
+$x = $data[$_POST['id']];
 
 echo json_encode($x);
