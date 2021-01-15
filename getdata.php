@@ -3,7 +3,7 @@ header('Access-Control-Allow-Origin: *');
 
 $data = array(
     "name" => "Chanankorn",
-    "sname" => "Jandeng"
+    "sname" => "Jandeng",
     'age'=>40
 );
 
